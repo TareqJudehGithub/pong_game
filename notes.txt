@@ -1,0 +1,6 @@
+Pong
+
+Setting up starting screen
+    Screen size: 800 * 600
+    Screen BG color: Black
+    Screen terminates on click
